@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, eu sou o PauloScotti 👋
 
-<!--
-**PauloScotti/PauloScotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 Estou estudando atualmente as linguagens:
+1. <a href="https://github.com/PauloScotti/devagram-vue-js">VuesJS</a>
+1. <a href="https://github.com/PauloScotti/app-catalogo-aulas-font">ReactJS</a>
+1. <a href="https://github.com/PauloScotti/app-catalogo-aulas">NodeJS/Typescript</a>
+1. Microserviços
+1. Wev3.0 com blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Meu objetivo de carreira é ser um Dev Fullstack
+
+
+
