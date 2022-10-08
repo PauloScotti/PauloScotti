@@ -1,4 +1,4 @@
-### Olá, eu sou o PauloScotti 👋
+<h1 align="center"> Olá, eu sou o PauloScotti 👋</h1>
 
 
 🌱 Estou estudando atualmente as linguagens:
@@ -13,8 +13,10 @@
 💬 Meu objetivo de carreira é ser um Dev Fullstack
 
 Projetos Fullstack do meu repositório
-1. <a href="https://github.com/PauloScotti/app-catalogo-aulas">Backend com NodeJS e Typescript</a>
-1. <a href="https://github.com/PauloScotti/app-catalogo-aulas-font">Frontend com ReactJS</a>
+1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">Backend com NodeJS e Typescript - Catálogo de Veículos</a>
+1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">Frontend com ReactJS - Catálogo de Veículos</a>
+1. <a href="https://github.com/PauloScotti/app-catalogo-aulas">Backend com NodeJS e Typescript - Catálogo de Aulas</a>
+1. <a href="https://github.com/PauloScotti/app-catalogo-aulas-font">Frontend com ReactJS - Catálogo de Aulas</a>
 1. <a href="https://github.com/PauloScotti/devagram-nextjs">Backend com NodeJS e Typescript - Curso da Devaria 2022</a>
 1. <a href="https://github.com/PauloScotti/devagram-react">Frontend com ReactJS - Curso da Devaria 2022</a>
 1. <a href="https://github.com/PauloScotti/devagram-vue-js">Frontend com VueJS - Curso da Devaria 2022</a>
