@@ -2,8 +2,8 @@
 
 
 🌱 Estou estudando atualmente as linguagens:
-1. <a href="https://github.com/PauloScotti/app-catalogo-aulas-font">ReactJS</a>
-1. <a href="https://github.com/PauloScotti/app-catalogo-aulas">NodeJS/Typescript</a>
+1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">ReactJS</a>
+1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">NodeJS/Typescript</a>
 1. <a href="https://github.com/PauloScotti/devagram-vue-js">VuesJS</a>
 1. Microserviços
 1. Wev3.0 com blockchain
@@ -20,6 +20,8 @@ Projetos Fullstack do meu repositório
 1. <a href="https://github.com/PauloScotti/devagram-nextjs">Backend com NodeJS e Typescript - Curso da Devaria 2022</a>
 1. <a href="https://github.com/PauloScotti/devagram-react">Frontend com ReactJS - Curso da Devaria 2022</a>
 1. <a href="https://github.com/PauloScotti/devagram-vue-js">Frontend com VueJS - Curso da Devaria 2022</a>
+1. <a href="https://github.com/PauloScotti/controle_de_palavras">Cadastro de Palavras (Frontend e Backtend) - Contruído com PHP</a>
+1. <a href="https://github.com/PauloScotti/ControleFinanceiro">Controle Financeiro (Frontend e Backtend) - Contruído com PHP</a>
 
 ##
 
