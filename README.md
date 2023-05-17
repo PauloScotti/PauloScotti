@@ -2,8 +2,9 @@
 
 
 🌱 Estou estudando atualmente as linguagens:
-1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">ReactJS</a>
-1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">NodeJS/Typescript</a>
+1. <a href="https://github.com/PauloScotti/devameet-nest-js">NodeJS + Nest</a>
+1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">NodeJS + NextJS + Typescript</a>
+1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">ReactJS + NextJS</a>
 1. <a href="https://github.com/PauloScotti/devagram-vue-js">VuesJS</a>
 1. <a href="https://github.com/PauloScotti/sls-devagram-typescript">Arquitetura Serverless</a>
 1. Wev3.0 com blockchain
