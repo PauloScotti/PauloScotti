@@ -2,7 +2,9 @@
 
 
 🌱 Estou estudando atualmente as linguagens:
+
 1. <a href="https://github.com/PauloScotti/devameet-nest-js">NodeJS + Nest</a>
+1. <a href="https://github.com/PauloScotti/devameet-react-js">ReactJS + Vite</a>
 1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">NodeJS + NextJS + Typescript</a>
 1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">ReactJS + NextJS</a>
 1. <a href="https://github.com/PauloScotti/devagram-vue-js">VuesJS</a>
@@ -14,6 +16,8 @@
 💬 Meu objetivo de carreira é ser um Dev Fullstack
 
 Projetos Fullstack do meu repositório
+1. <a href="https://github.com/PauloScotti/devameet-nest-js">Backend com NodeJS, Typescript e Nest - Devameet (Devaria 2023)</a>
+1. <a href="https://github.com/PauloScotti/devameet-react-js">Frontend com ReactJS + Vite - Devameet (Devaria 2023)</a>
 1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">Backend com NodeJS e Typescript - Catálogo de Veículos</a>
 1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">Frontend com ReactJS - Catálogo de Veículos</a>
 1. <a href="https://github.com/PauloScotti/app-catalogo-aulas">Backend com NodeJS e Typescript - Catálogo de Aulas</a>
