@@ -3,8 +3,8 @@
 
 🌱 Estou estudando atualmente as linguagens:
 
-1. <a href="https://github.com/PauloScotti/devameet-nest-js">NodeJS + Nest</a>
-1. <a href="https://github.com/PauloScotti/devameet-react-js">ReactJS + Vite</a>
+1. <a href="https://github.com/PauloScotti/devameet-nest-js">NodeJS + Nest + Typescrip</a>
+1. <a href="https://github.com/PauloScotti/devameet-react-js">ReactJS + Vite + Typescrip</a>
 1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">NodeJS + NextJS + Typescript</a>
 1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">ReactJS + NextJS</a>
 1. <a href="https://github.com/PauloScotti/devagram-vue-js">VuesJS</a>
