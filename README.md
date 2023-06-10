@@ -1,15 +1,22 @@
 <h1 align="center"> Olá, eu sou o PauloScotti 👋</h1>
 
 
-🌱 Estou estudando atualmente as linguagens:
+🌱 O que estou estudando atualmente:
 
-1. <a href="https://github.com/PauloScotti/devameet-nest-js">NodeJS + Nest + Typescrip</a>
-1. <a href="https://github.com/PauloScotti/devameet-react-js">ReactJS + Vite + Typescrip</a>
-1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">NodeJS + NextJS + Typescript</a>
-1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">ReactJS + NextJS</a>
-1. <a href="https://github.com/PauloScotti/devagram-vue-js">VuesJS</a>
-1. <a href="https://github.com/PauloScotti/sls-devagram-typescript">Arquitetura Serverless</a>
-1. Wev3.0 com blockchain
+1. <a href="https://github.com/PauloScotti/devameet-nest-js">NodeJS + Nest + Typescrip - Devaria 2023</a>
+1. <a href="https://github.com/PauloScotti/devameet-react-js">ReactJS + Vite + Typescrip - Devaria 2023</a>
+1. <a href="https://github.com/PauloScotti/sls-devagram-typescript">Arquitetura Serverless - Devaria 2023</a>
+1. Wev3.0 com blockchain - Devaria 2023
+1. VueJS - Devaria 2023
+1. Angular - Devaria 2023
+1. Python - Devaria 2023
+1. C# - Devaria 2023
+1. Kotlin - Devaria 2023
+1. Flutter - Devaria 2023
+1. React Native - Devaria 2023
+1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">NodeJS + NextJS + Typescript - Devaria 2022</a>
+1. <a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">ReactJS + NextJS - Devaria 2022</a>
+1. <a href="https://github.com/PauloScotti/devagram-vue-js">VuesJS - Devaria 2022</a>
 
 ##
 
@@ -49,6 +56,7 @@ Projetos Fullstack do meu repositório ordenados de forma decrescente (do mais r
 ##
 
 <div>
+<p><strong>Contatos:</strong></p>
 <a href="https://instagram.com/paulorscotti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:paulo.scotti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/paulo-scotti-94050a25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
@@ -72,5 +80,7 @@ Projetos Fullstack do meu repositório ordenados de forma decrescente (do mais r
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React_Native](https://img.shields.io/badge/-ReactNative-0D1117?style=for-the-badge&logo=react-native&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ##
