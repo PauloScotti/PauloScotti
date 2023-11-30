@@ -10,6 +10,7 @@
 
  ### Minhas skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -40,7 +41,11 @@ Projetos Fullstack do meu repositório ordenados de forma decrescente (do mais r
     <th>BackEnd</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/group_devaria_challeng">React com NextJS - Site de notícias (Devaria 2023)</a>
+    <td><a href="https://github.com/PauloScotti/devagram-react">ReactJS e NextJS - (Devaria 2022)</a></td>
+    <td><a href="https://github.com/PauloScotti/DevagramCShrap">C# - Devagram (Devaria 2023)</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PauloScotti/group_devaria_challeng">React com NextJS - Site de notícias (Devaria 2023)</a></td>
     <td>Feito pelo colega do grupo</td>
   </tr>
   <tr>
