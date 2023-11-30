@@ -3,8 +3,14 @@
 <p><strong>Contatos:</strong></p>
 <a href="https://instagram.com/paulorscotti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:paulo.scotti@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/paulo-scotti-94050a25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/paulo-scotti-94050a25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
  </div>
+ <br />
+ <p><strong>Sobre mim</strong></p>
+ <p>Minha paixão pela área de desenvolvimento está inteiramente ligada a meu desejo de criar soluções que ajudem a todos. Estou sempre em busca de novos conhecimentos e de ser melhor como pessoa e como profissional.</p>
+ <p>Sou empenhado, dedicado e persistente</p>
+ <p>Me comunico bem com clientes internos e externos, buscando sempre ajudar a todos.</p>
+ <p>Para saber mais sobre mim, meu e-mail é <a href="mailto:"paulo.scotti@hotmail.com">paulo.scotti@hotmail.com</a></p>
 
 ##
 
