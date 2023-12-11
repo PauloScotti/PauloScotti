@@ -36,15 +36,19 @@
 
 Projetos Fullstack do meu repositório ordenados de forma decrescente (do mais recente para o mais antigo)
 
-
 <table>
   <tr>
     <th>FrontEnd</th>
     <th>BackEnd</th>
   </tr>
+ <tr>
+    <td><a href="https://github.com/PauloScotti/devameet-react-js">ReactJS + Vite - Devameet (Devaria 2023)</a></td>
+    <td><a href="https://github.com/PauloScotti/DevameetCSharp">C# .Net Core - Devameet (Devaria 2023)</a></td>
+  </tr>
+  <tr>
   <tr>
     <td><a href="https://github.com/PauloScotti/devagram-react">ReactJS e NextJS - (Devaria 2022)</a></td>
-    <td><a href="https://github.com/PauloScotti/DevagramCShrap">C# - Devagram (Devaria 2023)</a></td>
+    <td><a href="https://github.com/PauloScotti/DevagramCShrap">C# .Net Core - Devagram (Devaria 2023)</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/PauloScotti/group_devaria_challeng">React com NextJS - Site de notícias (Devaria 2023)</a></td>
