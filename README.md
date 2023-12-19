@@ -15,7 +15,7 @@
 ##
 
  ### Minhas skills:
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,git,figma,vscode
+[![Minhas Habilidades](https://skillicons.dev/icons?i=github,html,css,js,ts,nodejs,react,vue,git,figma,vscode,cs,angular
 )](https://skillicons.dev)
 
 ### Estudando no momento:
