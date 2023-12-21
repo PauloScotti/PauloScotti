@@ -42,49 +42,41 @@ Projetos Fullstack do meu repositório ordenados de forma decrescente (do mais r
     <th>BackEnd</th>
   </tr>
  <tr>
-    <td><a href="https://github.com/PauloScotti/devameet-react-js">ReactJS + Vite - Devameet (Devaria 2023)</a></td>
-    <td><a href="https://github.com/PauloScotti/DevameetCSharp">C# .Net Core - Devameet (Devaria 2023)</a></td>
+    <td><a href="https://github.com/PauloScotti/devameet-react-js">Devameet (Devaria 2023) - ReactJS + Vite</a></td>
+    <td><a href="https://github.com/PauloScotti/DevameetCSharp">Devameet (Devaria 2023) - C# .Net Core</a></td>
   </tr>
   <tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/devagram-react">ReactJS e NextJS - (Devaria 2022)</a></td>
-    <td><a href="https://github.com/PauloScotti/DevagramCShrap">C# .Net Core - Devagram (Devaria 2023)</a></td>
+    <td><a href="https://github.com/PauloScotti/devagram-react">Devagram (Devaria 2022) - ReactJS e NextJS</a></td>
+    <td><a href="https://github.com/PauloScotti/DevagramCShrap">Devagram (Devaria 2023) - C# .Net Core</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/group_devaria_challeng">React com NextJS - Site de notícias (Devaria 2023)</a></td>
+    <td><a href="https://github.com/PauloScotti/group_devaria_challeng">DevaNews (Devaria 2023) - React com NextJS</a></td>
     <td>Feito pelo colega do grupo</td>
   </tr>
   <tr>
     <td>Em breve</td>
-    <td><a href="https://github.com/PauloScotti/desafio_franquia">NodeJS, Typescript e NestJS - Desafio individual (Devaria 2023)</a></td>
+    <td><a href="https://github.com/PauloScotti/desafio_franquia">Franquias (Devaria 2023) - NodeJS, Typescript e NestJS</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/devameet-react-js">ReactJS + Vite - Devameet (Devaria 2023)</a></td>
-    <td><a href="https://github.com/PauloScotti/devameet-nest-js">NodeJS, Typescript e NestJS - Devameet (Devaria 2023)</a></td>
+    <td><a href="https://github.com/PauloScotti/devameet-react-js">Devameet (Devaria 2023) - ReactJS + Vite</a></td>
+    <td><a href="https://github.com/PauloScotti/devameet-nest-js">Devameet (Devaria 2023) - NodeJS, Typescript e NestJS</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">ReactJS e NextJS - Catálogo de Veículos</a></td>
-    <td><a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">NodeJS e Typescript - Catálogo de Veículos</a></td>
+    <td><a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">Catálogo de Veículos - ReactJS e NextJS</a></td>
+    <td><a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">Catálogo de Veículos - NodeJS e Typescript</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/app-catalogo-aulas-font">ReactJS e NextJS - Catálogo de Aulas</a></td>
-    <td><a href="https://github.com/PauloScotti/app-catalogo-aulas">NodeJS e Typescript - Catálogo de Aulas</a></td>
+    <td><a href="https://github.com/PauloScotti/app-catalogo-aulas-font">Catálogo de Aulas - ReactJS e NextJS</a></td>
+    <td><a href="https://github.com/PauloScotti/app-catalogo-aulas">Catálogo de Aulas - NodeJS e Typescript</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/devagram-react">ReactJS e NextJS - (Devaria 2022)</a></td>
-    <td><a href="https://github.com/PauloScotti/devagram-nextjs">NodeJS e Typescript - (Devaria 2022)</a></td>
+    <td><a href="https://github.com/PauloScotti/devagram-react">Devagram (Devaria 2022) - ReactJS e NextJS</a></td>
+    <td><a href="https://github.com/PauloScotti/devagram-nextjs">Devagram (Devaria 2022) - NodeJS e Typescript</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/devagram-vue-js">VueJS - (Devaria 2022)</a></td>
-    <td><a href="https://github.com/PauloScotti/devagram-nextjs">NodeJS e Typescript - (Devaria 2022)</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/PauloScotti/controle_de_palavras">PHP - Cadastro de Palavras (Frontend e Backtend)</a></td>
-    <td><a href="https://github.com/PauloScotti/controle_de_palavras">PHP - Cadastro de Palavras (Frontend e Backtend)</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/PauloScotti/ControleFinanceiro">PHP - Controle Financeiro (Frontend e Backtend)</a></td>
-    <td><a href="https://github.com/PauloScotti/ControleFinanceiro">PHP - Controle Financeiro (Frontend e Backtend)</a></td>
+    <td><a href="https://github.com/PauloScotti/devagram-vue-js">Devagram (Devaria 2022) - VueJS</a></td>
+    <td><a href="https://github.com/PauloScotti/devagram-nextjs">Devagram (Devaria 2022) - NodeJS e Typescript</a></td>
   </tr>
 </table>
 
