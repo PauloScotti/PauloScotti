@@ -15,7 +15,7 @@
 ##
 
  ### Minhas skills:
-[![Minhas Habilidades](https://skillicons.dev/icons?i=github,html,css,js,ts,nodejs,react,vue,git,figma,vscode,cs,angular
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,cs,angular,python,github,postman,vscode,visualstudio,git,figma
 )](https://skillicons.dev)
 
 ### Estudando no momento:
@@ -39,48 +39,45 @@ Projetos Fullstack do meu repositório ordenados de forma decrescente (do mais r
 <table>
   <tr>
     <th>FrontEnd</th>
-    <th>BackEnd</th>
   </tr>
  <tr>
     <td><a href="https://github.com/PauloScotti/devagram-angular">Devagram (Devaria 2023) - Angular CLI</a></td>
-    <td><a href="https://github.com/PauloScotti/devagram-nextjs">Devagram (Devaria 2022) - NodeJS e Typescript</a></td>
   </tr>
   <tr>
     <tr>
     <td><a href="https://github.com/PauloScotti/devameet-react-js">Devameet (Devaria 2023) - ReactJS + Vite</a></td>
-    <td><a href="https://github.com/PauloScotti/DevameetCSharp">Devameet (Devaria 2023) - C# .Net Core</a></td>
-  </tr>
-  <tr>
-  <tr>
-    <td><a href="https://github.com/PauloScotti/devagram-react">Devagram (Devaria 2022) - ReactJS e NextJS</a></td>
-    <td><a href="https://github.com/PauloScotti/DevagramCShrap">Devagram (Devaria 2023) - C# .Net Core</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/PauloScotti/group_devaria_challeng">DevaNews (Devaria 2023) - React com NextJS</a></td>
-    <td>Feito pelo colega do grupo</td>
-  </tr>
-  <tr>
-    <td>Em breve</td>
-    <td><a href="https://github.com/PauloScotti/desafio_franquia">Franquias (Devaria 2023) - NodeJS, Typescript e NestJS</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/PauloScotti/devameet-react-js">Devameet (Devaria 2023) - ReactJS + Vite</a></td>
-    <td><a href="https://github.com/PauloScotti/devameet-nest-js">Devameet (Devaria 2023) - NodeJS, Typescript e NestJS</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">Catálogo de Veículos - ReactJS e NextJS</a></td>
-    <td><a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">Catálogo de Veículos - NodeJS e Typescript</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/PauloScotti/app-catalogo-aulas-font">Catálogo de Aulas - ReactJS e NextJS</a></td>
-    <td><a href="https://github.com/PauloScotti/app-catalogo-aulas">Catálogo de Aulas - NodeJS e Typescript</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/PauloScotti/devagram-react">Devagram (Devaria 2022) - ReactJS e NextJS</a></td>
-    <td><a href="https://github.com/PauloScotti/devagram-nextjs">Devagram (Devaria 2022) - NodeJS e Typescript</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/PauloScotti/devagram-vue-js">Devagram (Devaria 2022) - VueJS</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>BackEnd</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PauloScotti/DevameetCSharp">Devameet (Devaria 2023) - C# .Net Core</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PauloScotti/desafio_franquia">Franquias (Devaria 2023) - NodeJS, Typescript e NestJS</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PauloScotti/devameet-nest-js">Devameet (Devaria 2023) - NodeJS, Typescript e NestJS</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">Catálogo de Veículos - NodeJS e Typescript</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/PauloScotti/devagram-nextjs">Devagram (Devaria 2022) - NodeJS e Typescript</a></td>
   </tr>
 </table>
