@@ -41,6 +41,10 @@ Projetos Fullstack do meu repositório ordenados de forma decrescente (do mais r
     <th>FrontEnd</th>
   </tr>
  <tr>
+    <td><a href="https://github.com/PauloScotti/devameet-vue">Devameet (Devaria 2023) - Vue</a></td>
+  </tr>
+  <tr>
+ <tr>
     <td><a href="https://github.com/PauloScotti/devagram-angular">Devagram (Devaria 2023) - Angular CLI</a></td>
   </tr>
   <tr>
