@@ -14,9 +14,14 @@
 
 ##
 
- ### Minhas skills:
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,cs,angular,python,github,postman,vscode,visualstudio,git,figma
+### Minhas skills:
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,cs,angular,python,github,git,postman,vscode,visualstudio,figma
 )](https://skillicons.dev)
+
+### Banco de Dados:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Estudando no momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -36,53 +41,98 @@
 
 Projetos Fullstack do meu repositório ordenados de forma decrescente (do mais recente para o mais antigo)
 
+## FrontEnd
+
 <table>
-  <tr>
-    <th>FrontEnd</th>
-  </tr>
- <tr>
-    <td><a href="https://github.com/PauloScotti/devameet-vue">Devameet (Devaria 2023) - Vue</a></td>
-  </tr>
-  <tr>
- <tr>
-    <td><a href="https://github.com/PauloScotti/devagram-angular">Devagram (Devaria 2023) - Angular CLI</a></td>
-  </tr>
-  <tr>
+  <thead>
+    <tr align="left">
+      <th>Nome do projeto</th>
+      <th>Link do repositório</th>
+    </tr>
+  </thead>
+ <tbody align="left">
+   <tr>
+      <td>Devameet (Devaria 2023) - Vue</td>
+      <td align=center><a href="https://github.com/PauloScotti/devameet-vue">
+         <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Repositório-E94D5F?style=for-the-badge"></a>
+       </td>
+    </tr>
     <tr>
-    <td><a href="https://github.com/PauloScotti/devameet-react-js">Devameet (Devaria 2023) - ReactJS + Vite</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/PauloScotti/group_devaria_challeng">DevaNews (Devaria 2023) - React com NextJS</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">Catálogo de Veículos - ReactJS e NextJS</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/PauloScotti/devagram-react">Devagram (Devaria 2022) - ReactJS e NextJS</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/PauloScotti/devagram-vue-js">Devagram (Devaria 2022) - VueJS</a></td>
-  </tr>
+   <tr>
+      <td>Devagram (Devaria 2023) - Angular CLI</td>
+      <td align=center><a href="https://github.com/PauloScotti/devagram-angular">
+         <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Repositório-30A3DC?style=for-the-badge"></a>
+       </td>
+    </tr>
+    <tr>
+      <tr>
+      <td>Devameet (Devaria 2023) - ReactJS + Vite</td>
+       <td align=center><a href="https://github.com/PauloScotti/devameet-react-js">
+         <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Repositório-E94D5F?style=for-the-badge"></a>
+       </td>
+    </tr>
+    <tr>
+      <td>DevaNews (Devaria 2023) - React com NextJS</td>
+      <td align=center><a href="https://github.com/PauloScotti/group_devaria_challeng">
+         <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Repositório-30A3DC?style=for-the-badge"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Catálogo de Veículos - ReactJS e NextJS</td>
+      <td align=center><a href="https://github.com/PauloScotti/app-catalogo-veiculos-reactjs">
+         <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Repositório-E94D5F?style=for-the-badge"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Devagram (Devaria 2022) - ReactJS e NextJS</td>
+      <td align=center><a href="https://github.com/PauloScotti/devagram-react">
+         <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Repositório-30A3DC?style=for-the-badge"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Devagram (Devaria 2022) - VueJS</td>
+      <td align=center><a href="https://github.com/PauloScotti/devagram-vue-js">
+         <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Repositório-E94D5F?style=for-the-badge"></a>
+      </td>
+    </tr>
 </table>
+
+## BackEnd
 
 <table>
   <tr>
-    <th>BackEnd</th>
+    <th>Nome do projeto</th>
+    <th>Link do repositório</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/DevameetCSharp">Devameet (Devaria 2023) - C# .Net Core</a></td>
+    <td>Devameet (Devaria 2023) - C# .Net Core</td>
+    <td align=center><a href="https://github.com/PauloScotti/DevameetCSharp">
+         <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Repositório-E94D5F?style=for-the-badge"></a>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/desafio_franquia">Franquias (Devaria 2023) - NodeJS, Typescript e NestJS</a></td>
+    <td>Franquias (Devaria 2023) - NodeJS, Typescript e NestJS</td>
+    <td align=center><a href="https://github.com/PauloScotti/desafio_franquia">
+         <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Repositório-30A3DC?style=for-the-badge"></a>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/devameet-nest-js">Devameet (Devaria 2023) - NodeJS, Typescript e NestJS</a></td>
+    <td>Devameet (Devaria 2023) - NodeJS, Typescript e NestJS</td>
+    <td align=center><a href="https://github.com/PauloScotti/devameet-nest-js">
+         <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Repositório-E94D5F?style=for-the-badge"></a>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">Catálogo de Veículos - NodeJS e Typescript</a></td>
+    <td>Catálogo de Veículos - NodeJS e Typescript</td>
+    <td align=center><a href="https://github.com/PauloScotti/app-catalogo-veiculos-nodejs">
+         <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Repositório-30A3DC?style=for-the-badge"></a>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PauloScotti/devagram-nextjs">Devagram (Devaria 2022) - NodeJS e Typescript</a></td>
+    <td>Devagram (Devaria 2022) - NodeJS e Typescript</td>
+    <td align=center><a href="https://github.com/PauloScotti/devagram-nextjs">
+         <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Repositório-E94D5F?style=for-the-badge"></a>
+    </td>
   </tr>
 </table>
 
